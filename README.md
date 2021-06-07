@@ -8,6 +8,9 @@ Install python-3.7.2 and python-pip. Follow the steps from the below reference d
 
 ## 2. Setup Virtual Environment:
 ### a. Using conda:
+    #Install AnacondaPrompt (if not available):
+    https://docs.anaconda.com/anaconda/install/windows/
+
     #Install Virtual environment
  
     conda create -n virtualenv
